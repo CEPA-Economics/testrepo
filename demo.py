@@ -2,4 +2,4 @@ print('Hello world')
 
 print("Hello GitHub")
 
-print ("this is a new feature that needs testign")
+print ("This is a new feature that needs testing")
