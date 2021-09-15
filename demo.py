@@ -2,4 +2,6 @@ print('Hello world')
 
 print("Hello Will")
 
-print ("This is a new feature that needs testing")
+print("You're looking great today")
+
+print("This is a new feature that needs testing")
